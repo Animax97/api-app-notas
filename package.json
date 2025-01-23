@@ -1,9 +1,11 @@
 {
+  "type": "module",
   "name": "api-app-notas",
   "version": "1.0.0",
   "description": "practica de código",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
